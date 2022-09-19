@@ -1,0 +1,24 @@
+{
+  "name": "modbus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgro/node-modbus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xgro/node-modbus/issues"
+  },
+  "homepage": "https://github.com/xgro/node-modbus#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "jsmodbus": "^4.0.6",
+    "net": "^1.0.2"
+  }
+}
